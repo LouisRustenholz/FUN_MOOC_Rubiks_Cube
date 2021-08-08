@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg53145"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="triangle_swap_2.svg"
+   inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/triangle_base.png"
+   inkscape:export-xdpi="120"
+   inkscape:export-ydpi="120"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview53147"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.8474053"
+     inkscape:cx="388.92385"
+     inkscape:cy="568.63536"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs53142" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:5.74488;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path53171"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="239.34737"
+       sodipodi:cy="426.19283"
+       sodipodi:r1="204.50392"
+       sodipodi:r2="102.25196"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 416.45297,528.44479 -354.211187,0 177.105597,-306.75588 z"
+       transform="matrix(0.27460336,0,0,0.27460336,39.274407,32.22869)"
+       inkscape:transform-center-y="-14.039367"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/triangle_swap_1.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       d="m 89.704196,134.59011 2.15643,-0.1648 0.27938,3.65583 c 3.70786,-5.56216 10.805524,-8.22546 17.461364,-6.04624 2.53631,0.83046 4.81544,2.31226 6.59115,4.28514 1.72152,1.9127 2.94205,4.24866 3.52951,6.75519 l -2.10562,-0.0583 c -1.05451,-4.4991 -4.30238,-7.49063 -8.68802,-8.92657 -6.33374,-2.07384 -13.134654,0.96024 -15.918794,6.83137 l 5.89726,-0.45068 0.16479,2.15642 -8.7024,0.66509 z"
+       id="path2"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.0720907"
+       sodipodi:nodetypes="ccccscccccccc"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/triangle_swap_1.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       d="m 113.14239,133.68067 v 0 l -0.97023,-0.49796 c 5.65128,3.57054 9.83101,11.16391 7.44225,17.80603 -0.7681,2.55588 -2.19363,4.87061 -4.12244,6.6941 -1.86998,1.76784 -4.17535,3.04521 -6.66674,3.69387 l 0.007,-2.10641 c 4.47193,-1.16437 7.38303,-4.48453 8.71114,-8.90402 1.91811,-6.38262 -1.28161,-13.10719 -7.21915,-15.74671 v 0 0 0 z"
+       id="path2-9"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.0720907"
+       sodipodi:nodetypes="ccccscccccccc"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/triangle_swap_1.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+  </g>
+</svg>

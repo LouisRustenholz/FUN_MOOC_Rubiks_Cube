@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="pearls_swap_3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.6141471"
+     inkscape:cx="287.45832"
+     inkscape:cy="345.38364"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect17274"
+       is_visible="true"
+       lpeversion="1"
+       offset_points="2,1"
+       not_jump="false"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       scale_width="1"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect17272"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect16877"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <linearGradient
+       id="linearGradient16473"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop16471" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path147"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.665;stroke-miterlimit:4;stroke-dasharray:0.665, 0.665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 50.938348,100 A 10.938392,10.938392 0 0 0 40,110.93835 10.938392,10.938392 0 0 0 50.938348,121.8767 10.938392,10.938392 0 0 0 61.8767,110.93835 10.938392,10.938392 0 0 0 50.938348,100 Z"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       id="path147-3"
+       style="fill:none;stroke:#000000;stroke-width:0.665;stroke-miterlimit:4;stroke-dasharray:0.665, 0.665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 85.938349,100 A 10.938392,10.938392 0 0 0 75,110.93835 10.938392,10.938392 0 0 0 85.938349,121.8767 10.938392,10.938392 0 0 0 96.8767,110.93835 10.938392,10.938392 0 0 0 85.938349,100 Z"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       id="path147-3-6"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.665;stroke-miterlimit:4;stroke-dasharray:0.665, 0.665;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 120.93835,100 A 10.938392,10.938392 0 0 0 110,110.93835 10.938392,10.938392 0 0 0 120.93835,121.8767 10.938392,10.938392 0 0 0 131.8767,110.93835 10.938392,10.938392 0 0 0 120.93835,100 Z"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="47.595062"
+       y="114.83219"
+       id="text7030"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_pearl.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="0"
+         y="0"
+         id="tspan8032">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.722397"
+       y="114.89543"
+       id="text7030-7"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_pearl.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="0"
+         y="0"
+         id="tspan9653">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="117.72202"
+       y="115.26479"
+       id="text7030-7-3"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_pearl.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853"><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="0"
+         y="0"
+         id="tspan9653-5">3</tspan><tspan
+         sodipodi:role="line"
+         style="fill:#ffffff;stroke-width:0.264583"
+         x="0"
+         y="0"
+         id="tspan11094" /></text>
+    <path
+       d="m 82.292442,87.356995 -2.156426,-0.164796 -0.27938,3.655831 c -3.70786,-5.562165 -10.80552,-8.225467 -17.461365,-6.04624 -2.536306,0.830455 -4.815438,2.312256 -6.591146,4.285133 -1.721519,1.912702 -2.942054,4.248661 -3.529515,6.755189 l 2.105624,-0.05834 c 1.054508,-4.499098 4.302383,-7.490622 8.688014,-8.92657 6.333748,-2.073839 13.134658,0.960243 15.918798,6.83137 l -5.89726,-0.450672 -0.16479,2.156414 8.702396,0.665093 z"
+       id="path2"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.0720907"
+       sodipodi:nodetypes="ccccscccccccc"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       d="m 119.94075,87.988387 -2.15642,-0.164796 -0.27938,3.655831 c -3.70786,-5.562165 -10.80552,-8.225467 -17.46137,-6.04624 -2.536304,0.830455 -4.815436,2.312256 -6.591144,4.285133 -1.721519,1.912702 -2.942054,4.248661 -3.529515,6.755189 l 2.105624,-0.05834 c 1.054508,-4.499098 4.302383,-7.490622 8.688015,-8.92657 6.33375,-2.073839 13.13466,0.960243 15.9188,6.83137 l -5.89726,-0.450672 -0.16479,2.156414 8.70239,0.665093 z"
+       id="path2-9"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.0720907"
+       sodipodi:nodetypes="ccccscccccccc"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+    <path
+       d="m 53.860886,136.95039 4.383982,0.24106 0.567977,-5.34802 c 7.538044,8.13676 21.967518,12.03284 35.498798,8.8449 5.156275,-1.21485 9.789747,-3.38254 13.399727,-6.26862 3.49983,-2.79804 5.98118,-6.21526 7.17548,-9.882 l -4.28071,0.0853 c -2.1438,6.58163 -8.74671,10.95785 -17.662659,13.05847 -12.876454,3.03377 -26.702638,-1.40471 -32.362768,-9.99345 l 11.989072,0.65927 0.335017,-3.15456 -17.691875,-0.97294 z"
+       id="path2-1"
+       style="fill:#ff0000;fill-opacity:1;stroke-width:0.124323"
+       sodipodi:nodetypes="ccccscccccccc"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/pearl_swap_3.png"
+       inkscape:export-xdpi="144.75853"
+       inkscape:export-ydpi="144.75853" />
+  </g>
+</svg>
