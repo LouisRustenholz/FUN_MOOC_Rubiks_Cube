@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg18996"
+   inkscape:version="1.1 (c4e8f9ed74, 2021-05-24)"
+   sodipodi:docname="base_cayley.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview18998"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.63234634"
+     inkscape:cx="301.25896"
+     inkscape:cy="533.7265"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs18993">
+    <linearGradient
+       id="linearGradient19207"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#ff0000;stop-opacity:1;"
+         offset="0"
+         id="stop19205" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path19065"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.51339;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:transform-center-y="-1.4816584e-06"
+       d="m 285.21094,372.06055 -87.78125,152.04101 87.78125,152.04297 H 460.77539 L 548.55664,524.10156 460.77539,372.06055 Z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 52.236605,138.66853 75.46206,98.441019"
+       id="path20272"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;stroke:#0000fe;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 121.91348,98.441019 23.22546,40.227511 v 0"
+       id="path21396"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;stroke:#0000ff;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75.46206,178.89657 h 46.45142"
+       id="path22009"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 52.236605,138.66853 75.46206,178.89657"
+       id="path22737"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 75.46206,98.441017 46.45142,2e-6"
+       id="path23102"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.865;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 145.13894,138.66853 -23.22546,40.22804"
+       id="path23533"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <path
+       id="path24033"
+       style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:3.26929;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 746.19141,1946.252 a 34.604338,34.604338 0 0 0 -34.60547,34.6035 34.604338,34.604338 0 0 0 34.60547,34.6054 34.604338,34.604338 0 0 0 34.60351,-34.6054 34.604338,34.604338 0 0 0 -34.60351,-34.6035 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037"
+       cx="52.207436"
+       cy="138.63936"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037-2"
+       cx="75.831009"
+       cy="98.719299"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037-2-9"
+       cx="121.84048"
+       cy="98.530426"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037-2-1"
+       cx="145.12015"
+       cy="138.60086"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037-2-2"
+       cx="122.03595"
+       cy="178.8839"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.02;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24037-2-7"
+       cx="75.792381"
+       cy="179.38811"
+       r="2"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.765;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path24480"
+       cx="52.236603"
+       cy="138.66853"
+       r="5.8509059"
+       inkscape:export-filename="/home/alkonost/coursX/Enseignement/MOOC/Rubiks_Cube/Exercices/Repo/FUN_MOOC_Rubiks_Cube/Images/Video_3/base_cayley.png"
+       inkscape:export-xdpi="50"
+       inkscape:export-ydpi="50" />
+  </g>
+</svg>
